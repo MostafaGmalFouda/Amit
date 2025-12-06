@@ -10,4 +10,4 @@ This repository is designed for Python projects related to Machine Learning.
 To get started with this project, clone the repository and navigate to the `python-for-ml` folder.
 ## Hello world
 this my first step to learn python for machine learning and this is bonus step.
-this line `print("Hello world")` to print `Hello world` in python.
+this line in file `S_1.py`in `python-for-ml`folder-> `print("Hello world")` to print `Hello world` in python.

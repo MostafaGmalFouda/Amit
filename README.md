@@ -1,7 +1,4 @@
-# Amit
-Amitmarkdown
-Copy code
-# Amit Repository
+# DEPI_Microsoft_ML_Engineer Repository
 ## Project Overview
 This repository is designed for Python projects related to Machine Learning.
 ## Folder Structure
